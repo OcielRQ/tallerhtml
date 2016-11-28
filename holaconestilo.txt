@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>Hola con estilo</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="estilos.css">
+
+<!--	<style type="text/css">
+	
+	</style>
+-->
+</head>
+<body>
+<h1 style="color: blue;">Ejemplo basico de estilos</h1>
+<p style="">Hola con estilo!</p>
+<h2>Otro parrafo</h2>
+<p>Otro parrafo</p>
+</body>
+</html>
+<!--
+Hojas Estilo en Cascada (CSS)
+Nos permiten cambiar el color, tamaño, etc. de cualquier elemento de una pagina web.
+Existen tres maneras de especificar el estilo:
+1.-Estilo en linea
+	Se especifica por medio de un atributo style directamnete en la etiqueta.
+		Sintaxis: style="propiedad:valor;"
+2.-Estilo interno
+	El estilo interno sitve para evitar duplicar estilos en cada etiqueta. Se especifica por medio de la etiqueta <style> la cual se coloca dentro de <head>.
+	La sintaxis del contenido de <style> es:
+	Selector
+	{
+	Propiedad: valor;
+	}
+
+	El selector es el nombre de la etiqueta a la cual se le quiere aplicar el estilo.
+
+3.-Estilo externo
+-->

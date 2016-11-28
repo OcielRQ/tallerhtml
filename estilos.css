@@ -1,0 +1,20 @@
+	p 
+		{
+			color: red;
+			font-size: 30px;
+		}
+		body 
+		{
+			background-color: #008ae6;
+		}
+body
+{
+    background: "hydra.jpg"
+}
+h3
+{
+    text-decoration-color: chocolate;
+    position: relative;
+    left: 97px;
+    font-family: sans-serif
+}
